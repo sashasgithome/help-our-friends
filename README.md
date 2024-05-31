@@ -1,7 +1,7 @@
 # CountryUrgencyLevel-KMeansClustering
 
 ### ⭐ Project Name : Country Urgency Level Grouping with K-Means Clustering
-### ⌛ Project Type : Academic Project (Computer Vision Class)
+### ⌛ Related Class : Machine Learning
 ##### Notes : Grouping of world countries into categories based on the level of assistance they may (or may not) require from other countries using manually coded K-Means Clustering function.
 ##### Keywords : k-means clustering, elbow method, correlation matrix, feature engineering, dimension reduction.
 
